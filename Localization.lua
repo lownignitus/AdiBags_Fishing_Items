@@ -59,7 +59,7 @@ L["Fishing Friends Currency"] = true
 L["Currencies for Legion Fishing Friends"] = true
 L["BFA Items"] = true
 L["Fishing items from BFA Zones"] = true
-elseif local == "esES" then
+elseif locale == "esES" then
 --Translation missing
 elseif locale == "esMX" then
 --Translation missing
