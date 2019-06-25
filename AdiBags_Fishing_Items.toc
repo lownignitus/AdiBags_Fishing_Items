@@ -1,9 +1,9 @@
-## Interface: 80100
+## Interface: 80200
 ## Title: |cff00ff00AdiBags - Fishing Items|r
-## Version: v1.0.0
+## Version: v1.0.1
 ## Author: |cffDA70D6LownIgnitus|r aka Mihkael-Alexstrasza
 ## Notes: Add various Fishing items to AdiBags filter groups
-## X-Date: 01/01/2019
+## X-Date: 25/06/2019
 ## X-Website: https://github.com/lownignitus/AdiBags_Fishing_Items
 ## X-Category: Bags & Inventory
 ## Dependancies: AdiBags
