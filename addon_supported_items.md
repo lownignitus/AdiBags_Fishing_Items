@@ -288,3 +288,53 @@ Fishing items from BFA Zones
 * 162515 Midnight Salmon - Teleport to nearest fishing pool
 * 162516 Rasboralus
 * 162517 U'taka
+
+## BFA 8.2 Items
+Fishing items added in patch 8.2
+
+* 167562 Ionized Minnow
+* 167600 Sludge-fouled Carp - 65, 51
+* 167654 Bottom Feeding Stinkfish - 79, 49
+* 167655 Bolted Steelhead
+* 167656 Pond Hopping Springfish - 65, 32
+* 167657 Shadowy Cave Eel - 59, 24
+* 167658 Mechanical Blowfish - 25, 77
+* 167659 Spitting Clownfish - 83, 72
+* 167661 Energized Lightning Cod
+* 167662 Solarsprocket Barbel
+* 167663 Tasty Steelfin - 47, 37
+* 167698 Secret Fish Goggles - Lets you see Secret Fish
+* 167705 Mechanized Mackerel - Mechagon
+* 167706 Jade Story Fish - Jade Forest, Garrosh'ar Point
+* 167707 Kirin Tor Clown - Dalaran (Broken Isles), Margoss's Retreat. Dalaran (Northrend), Underbelly
+* 167708 Ancient Mana Fin - Suramar. Suramar City Harbour
+* 167709 Drowned Goldfish
+* 167710 Barbed Fjord Fin - Howling Fjord, Valgarde
+* 167711 Dead Fel Bone - Argus, seems to be Krokuun only
+* 167712 Rotted Blood Cod - Nazmir, Zul'Nazman
+* 167713 Veiled Ghost - Only seen while dead
+* 167714 Travelling Goby
+* 167715 Elusive Moonfish - Night only. 6pm to 6am
+* 167716 Unseen Mimmic
+* 167717 Camouflaged Snark
+* 167718 Collectable Saltfin
+* 167719 Golden Sunsoaker - Day only. 6am to 6pm
+* 167720 Very Tiny Whale
+* 167721 Invisible Smelt
+* 167722 Prisoner Fish - Tol Barad swamp area on the western side of the island
+* 167723 Thunderous Flounder - Isle of Thunder
+* 167724 Tortollan Tank Dweller - Drustvar, under Anyport in the underwater Tortotallon bar called 'The Drunk Tank'
+* 167725 Spiritual Salmon - Only seen while dead
+* 167726 Quiet Floater - Only seen while dead
+* 167727 Deadeye Wally - Only seen while dead
+* 167728 Queen's Delight - Nazjatar
+* 167729 Deceptive Maw
+* 167730 Inconspicuous Catfish
+* 168016 Hyper-Compressed Ocean - Toy, summons water sphere can fish in
+* 168262 Sentry Fish
+* 168302 Viper Fish
+* 168646 Mauve Stinger
+* 169870 Displaced Scrapfin
+* 169884 Green Roughy
+* 169897 Thin Air Flounder
+* 169898 Well Lurker
