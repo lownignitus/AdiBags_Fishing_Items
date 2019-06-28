@@ -295,7 +295,7 @@ Fishing items from BFA Zones
 ## BFA 8.2 Items
 Fishing items added in patch 8.2
 
-* 167562 Ionized Minnow
+* ~~167562 Ionized Minnow~~
 * 167600 Sludge-fouled Carp - 65, 51
 * 167654 Bottom Feeding Stinkfish - 79, 49
 * 167655 Bolted Steelhead
