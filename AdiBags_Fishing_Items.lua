@@ -1,6 +1,6 @@
 --[[
 Title: AdiBags - Fishing Items
-Version: v1.0.1
+Version: v1.0.5
 Author LownIgnitus - Mihkael-Alexstrasza
 Add various Fishing items to AdiBags filter groups
 ]]
@@ -308,7 +308,7 @@ local bfaFish = {
 
 -- BFA 8.2 Items
 local bfaItems = {
-	167562, 	--Ionized Minnow
+	--167562, 	--Ionized Minnow
 	167600, 	--Sludge-fouled Carp - 65, 51
 	167654, 	--Bottom Feeding Stinkfish - 79, 49
 	167655, 	--Bolted Steelhead
