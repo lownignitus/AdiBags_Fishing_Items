@@ -29,6 +29,7 @@ Requires AdiBags to work!
 * 118381 Ephemeral Fishing Pole - +14 fishing skill
 * 120163 Thruk's Fishing Rod - +3 fishing skill
 * 133755 Underlight Angler - +15 fishing skill and Teleport to pools
+* 168804 Powered Piscine Procurement Pole - +15 Fishing Skill, Drop from Deepwater Maw
 
 ## Hats
 
@@ -331,7 +332,7 @@ Fishing items added in patch 8.2
 * 167729 Deceptive Maw
 * 167730 Inconspicuous Catfish
 * 168016 Hyper-Compressed Ocean - Toy, summons water sphere can fish in
-* 168262 Sentry Fish
+* ~~168262 Sentry Fish~~
 * 168302 Viper Fish
 * 168646 Mauve Stinger
 * 169870 Displaced Scrapfin
