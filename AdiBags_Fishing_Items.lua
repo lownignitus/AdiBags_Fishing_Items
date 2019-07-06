@@ -82,6 +82,7 @@ local bobbers = {
 	133688,		-- Tugboat Bobber
 	136375,		-- Squeaky Duck Bobber
 	136376,		-- Murloc Bobber
+	136377, 	--Oversized Bobber
 	142528,		-- Crate of Bobbers: Can of Worms
 	142529,		-- Crate of Bobbers: Cat Head
 	142530,		-- Crate of Bobbers: Tugboat

@@ -3,7 +3,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Fishing Items group. 
 
-Latest version: v1.0.0
+Latest version: v1.0.7
 
 Requires AdiBags to work!
 
@@ -67,6 +67,7 @@ Items that change the look of your Bobber
 * 133688 Tugboat Bobber
 * 136375 Squeaky Duck Bobber
 * 136376 Murloc Bobber
+* 136377 Oversized Bobber
 * 142528 Crate of Bobbers: Can of Worms
 * 142529 Crate of Bobbers: Cat Head
 * 142530 Crate of Bobbers: Tugboat
