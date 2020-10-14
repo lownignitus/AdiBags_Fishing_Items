@@ -6,7 +6,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Fishing Items group. 
 
-Latest version: v1.0.7
+Latest version: v1.0.10
 
 Requires AdiBags to work!
 
