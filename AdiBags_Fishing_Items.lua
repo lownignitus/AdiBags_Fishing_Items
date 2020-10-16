@@ -1,6 +1,6 @@
 --[[
 Title: AdiBags - Fishing Items
-Version: v1.0.10
+Version: v1.0.11
 Author LownIgnitus - Mihkael-Alexstrasza
 Add various Fishing items to AdiBags filter groups
 ]]

@@ -1,6 +1,6 @@
-## Interface: 900001
+## Interface: 90001
 ## Title: |cff00ff00AdiBags - Fishing Items|r
-## Version: v1.0.10
+## Version: v1.0.11
 ## Author: |cffDA70D6LownIgnitus|r aka Mihkael-Alexstrasza
 ## Notes: Add various Fishing items to AdiBags filter groups
 ## X-Date: 13/10/2020
