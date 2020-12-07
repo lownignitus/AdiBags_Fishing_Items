@@ -6,7 +6,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Fishing Items group. 
 
-Latest version: v1.0.11
+Latest version: v1.1.0
 
 Requires AdiBags to work!
 
@@ -33,6 +33,9 @@ Requires AdiBags to work!
 * 120163 Thruk's Fishing Rod - +3 fishing skill
 * 133755 Underlight Angler - +15 fishing skill and Teleport to pools
 * 168804 Powered Piscine Procurement Pole - +15 Fishing Skill, Drop from Deepwater Maw
+* 173044 Wreathed Fishing Pole - +14 Fishing skill, nscreased chance to find SL Bait, Crafted(no source)
+* 177030 Aquatic Extractor
+* 180136 The Brokers Angle'r - +15 Fishing skill, Inscreased chance to find SL Bait
 
 ## Hats
 
@@ -83,6 +86,8 @@ Items that change the look of your Bobber
 * 147310 Crate of Bobbers: Floating Totem
 * 147311 Crate of Bobbers: Replica Gondola
 * 147312 Crate of Bobbers: Demon Noggin
+* 180168 Oribobber
+* 180993 Bat Visage Bobber
 
 ## Lures
 Temporary pole enchantments
@@ -99,6 +104,7 @@ Temporary pole enchantments
 * 67404 Glass Fishing Bobber - +2 fishing skill
 * 68049 Heat-Treated Spinning Lure - +10 fishing skill
 * 118391 Worm Supreme - +10 fishing skill
+* 177036 Aquatic Enticer - +5 Fishing skill
 
 ## Consumable Items
 Items that are fishing related and consumed on use
@@ -343,3 +349,11 @@ Fishing items added in patch 8.2
 * 169884 Green Roughy
 * 169897 Thin Air Flounder
 * 169898 Well Lurker
+
+## SL Bait
+* 173038 Lost Sole Bait
+* 173039 Iridescent Amberjack Bait
+* 173040 Silvergill Pike Bait
+* 173041 Pocked Bonefish Bait
+* 173042 Spinefin Piranha Bait
+* 173043 Elysian Thade Bait

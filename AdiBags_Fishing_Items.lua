@@ -1,6 +1,6 @@
 --[[
 Title: AdiBags - Fishing Items
-Version: v1.0.11
+Version: v1.1.0
 Author LownIgnitus - Mihkael-Alexstrasza
 Add various Fishing items to AdiBags filter groups
 ]]
@@ -43,6 +43,9 @@ local poles = {
 	120163,		-- Thruk's Fishing Rod - +3 fishing skill
 	133755,		-- Underlight Angler - +15 fishing skill and Teleport to pools
 	168804, 	--Powered Piscine Procurement Pole - +15 Fishing Skill, Drop from Deepwater Maw
+	173044, 	--Wreathed Fishing Pole - +14 Fishing skill, nscreased chance to find SL Bait, Crafted(no source)
+	177030, 	--Aquatic Extractor
+	180136, 	--The Brokers Angle'r - +15 Fishing skill, Inscreased chance to find SL Bait
 }
 
 -- Hats
@@ -95,6 +98,8 @@ local bobbers = {
 	147310,		-- Crate of Bobbers: Floating Totem
 	147311,		-- Crate of Bobbers: Replica Gondola
 	147312,		-- Crate of Bobbers: Demon Noggin
+	180168, 	--Oribobber
+	180993, 	--Bat Visage Bobber
 }
 
 -- Lures
@@ -111,6 +116,7 @@ local lures = {
 	67404,		-- Glass Fishing Bobber - +2 fishing skill
 	68049,		-- Heat-Treated Spinning Lure - +10 fishing skill
 	118391,		-- Worm Supreme - +10 fishing skill
+	177036, 	--Aquatic Enticer - +5 Fishing skill
 }
 
 -- Consumable Items
@@ -358,6 +364,16 @@ local bfaItems = {
 	169898, 	--Well Lurker
 }
 
+-- SL Bait
+local slBait = {
+	173038, 	--Lost Sole Bait
+	173039, 	--Iridescent Amberjack Bait
+	173040, 	--Silvergill Pike Bait
+	173041, 	--Pocked Bonefish Bait
+	173042, 	--Spinefin Piranha Bait
+	173043, 	--Elysian Thade Bait
+}
+
 local function MatchIDs_Init(self)
 	wipe(Result)
 
@@ -449,6 +465,10 @@ local function MatchIDs_Init(self)
 		AddToSet(Result, bfaItems)
 	end
 
+	if self.db.profile.moveSlBait then
+		AddToSet(Result, slBait)
+	end
+
 	return Result
  end
 
@@ -494,6 +514,7 @@ function setFilter:OnInitialize()
 			moveFishFriends = true,
 			moveBfaFish = true,
 			moveBfaItems = true,
+			moveSlBait = true,
 		}
 	})
 end
@@ -663,6 +684,12 @@ function setFilter:GetOptions()
 			desc = L["Fishing items from BFA 8.2 Zones"],
 			type = "toggle",
 			order = 220
+		},
+		moveSlBait =  {
+			name = L["SL Bait"],
+			desc = L["Bait to get Shadowland fish"],
+			type = "toggle",
+			order = 230
 		},
 	},
 	AdiBags:GetOptionHandler(self, false, function()

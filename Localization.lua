@@ -61,6 +61,8 @@ L["BFA Items"] = true
 L["Fishing items from BFA Zones"] = true
 L["BFA 8.2 Items"] = true
 L["Fishing items from BFA 8.2 Zones"] = true
+L["SL Bait"] =true
+L["Bait to get Shadowland fish"] = true
 elseif locale == "esES" then
 --Translation missing
 elseif locale == "esMX" then
