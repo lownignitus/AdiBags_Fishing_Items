@@ -6,7 +6,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Fishing Items group. 
 
-Latest version: v1.1.1
+Latest version: v1.1.2
 
 Requires AdiBags to work!
 
@@ -357,3 +357,4 @@ Fishing items added in patch 8.2
 * 173041 Pocked Bonefish Bait
 * 173042 Spinefin Piranha Bait
 * 173043 Elysian Thade Bait
+* 187712 Precursor Placoderm Bait

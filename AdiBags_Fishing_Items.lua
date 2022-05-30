@@ -372,6 +372,7 @@ local slBait = {
 	173041, 	--Pocked Bonefish Bait
 	173042, 	--Spinefin Piranha Bait
 	173043, 	--Elysian Thade Bait
+	187712, 	--Precursor Placoderm Bait
 }
 
 local function MatchIDs_Init(self)
