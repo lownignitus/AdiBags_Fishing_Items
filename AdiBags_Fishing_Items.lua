@@ -545,7 +545,7 @@ function setFilter:Filter(slotData)
 	if slotData.bag == BANK_CONTAINER then
 		Tooltip:SetInventoryItem("player", BankButtonIDToInvSlotID(slotData.slot, nil))
 	else
-		Tooltip:SetBagItem(slotData.bag, slotData.slot)
+		GameTooltip:SetBagItem(slotData.bag, slotData.slot)
 	end
 
 	Tooltip:Hide()

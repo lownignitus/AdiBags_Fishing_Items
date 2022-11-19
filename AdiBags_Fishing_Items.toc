@@ -1,10 +1,10 @@
-## Interface: 90002
+## Interface: 100002
 ## Title: |cff00ff00AdiBags - Fishing Items|r
 ## X-Curse-Project-ID: 310449
 ## Version: v1.1.1
 ## Author: |cffDA70D6LownIgnitus|r aka Mihkael-Alexstrasza
 ## Notes: Add various Fishing items to AdiBags filter groups
-## X-Date: 2021/02/05
+## X-Date: 2022/11/19
 ## X-Website: https://github.com/lownignitus/AdiBags_Fishing_Items
 ## X-Category: Bags & Inventory
 ## Dependancies: AdiBags
